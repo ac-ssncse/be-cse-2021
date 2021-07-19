@@ -92,13 +92,13 @@ program -- Evaluating performance.
 
 ** COURSE OUTCOMES
 Upon completion of the course, the student should be able to:
-- Select a process model for software development (K2)
+- Outline a process model for software development (K2)
 - Estimate cost to manage the software development (K3)
 - Develop a project using agile and devops software development
   practices (K3)
-- Identify the activities of security and risk in various types of
+- Find the activities of security and risk in various types of
   software projects (K1)
-- Recognize management skills and techniques to develop commercial
+- Infer management skills and techniques to develop commercial
   software projects (K2).
       
 ** TEXT BOOKS
